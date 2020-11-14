@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "micro-proyecto-dos"
+    }
+  },
+  "defaultProject": "micro-proyecto-dos",
+  "cli": {
+    "analytics": "fe2a1184-2a39-4c89-bcef-6edab2eabe4c"
+  }
 }
